@@ -1,6 +1,6 @@
 # folhaDePagamentoOO_v4
  
-Projeto ORIENTADO A OBJETOS utilizando os métodos get( ) e set( ) de um sistema de folha de pagamento de um funcionário em Java
+Projeto ORIENTADO A OBJETOS utilizando os métodos get( ) e set( ) de um sistema de folha de pagamento de varios funcionários em Java
 
 Folha de Pagamento – ProjetoFolhaDePagamentoOO_v4
 
